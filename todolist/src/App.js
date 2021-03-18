@@ -45,7 +45,7 @@ const AppContainer = styled.div`
     border-left: 5px solid #fb743e;
     border-radius: 5px;
     font-size: 2rem;
-    color: #fff;
+    color: #fb743e;
   }
 
   label{
@@ -191,7 +191,7 @@ render() {
         <span>s</span>
       </h1>
       <InputsContainer>
-        <input value={this.state.inputValue} onChange={this.onChangeInput}/>
+        <input value={this.state.inputValue} onChange={this.onChangeInput} placeholder='Digite sua tarefa'/>
         <button onClick={this.criaTarefa}>Adicionar</button>
       </InputsContainer>
       <br/>
