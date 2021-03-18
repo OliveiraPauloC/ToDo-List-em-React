@@ -1,6 +1,6 @@
 # Projeto TO-DO List 
 
-## Lista de tarefas criada no React e estilizada usando Styled-Components
+## Projeto pessoal, criando uma lista de tarefas criada no React e estilizada usando Styled-Components
 
 ### Visite: [TO-DO List](https://todolist-devpaulo.vercel.app/)
 
